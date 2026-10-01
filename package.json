@@ -1,0 +1,12 @@
+{
+  "name": "course-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tableau de bord académique personnel inspiré d'ÉTSMobile",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
